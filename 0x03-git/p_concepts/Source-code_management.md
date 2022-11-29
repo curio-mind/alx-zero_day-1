@@ -25,7 +25,7 @@ Git doesn’t copy-paste the whole codebase when branching and tagging, but stor
 Mercurial is very similar to Git in its concepts (although the syntax of its command-line tool is often different). It is more rarely seen in the industry than Git, but is still very relevant. It is the one used by Facebook, for instance, for its main application.
 
 ## The lowdown on Git
-# image goes here
+![image](https://user-images.githubusercontent.com/117860868/204628616-ee1683fb-7aee-4762-b6b7-e706bfd3732b.png)
 
 A particularity about Git, is that it’s designed to be useable without a central repository (you can pull code from your friend’s computer, and push you work back there, for instance), but not many people use it that way. There is usually a central Git server that the whole team pushes code to and pulls code from; however, that explains why it is often referred as a “decentralized” system.
 
