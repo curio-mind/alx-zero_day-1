@@ -12,7 +12,7 @@ Mandatory: 100.0%
 Optional: no optional tasks
 ```
 # Welcome to the Matrix!
-
+![image](https://user-images.githubusercontent.com/117860868/204631423-b0806f25-17ff-420b-b80b-bdc431bd78e8.png)
 
 This project will (probably) be your first experience with an Unix terminal!
 
